@@ -38,8 +38,8 @@ Based on analysis of graduated tokens, here are the critical thresholds:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bags-project.git
-cd bags-project
+git clone https://github.com/ShallIfy/bags-token-analysis.git
+cd bags-token-analysis
 
 # Install dependencies
 npm install
@@ -182,6 +182,10 @@ Fetches up to 1000 BAGS tokens using pagination.
 - Sustained momentum for 30+ minutes
 - Market cap approaching graduation threshold
 
+## Repository
+
+GitHub: [https://github.com/ShallIfy/bags-token-analysis](https://github.com/ShallIfy/bags-token-analysis)
+
 ## Contributing
 
 1. Fork the repository
@@ -200,7 +204,7 @@ This tool is for educational and research purposes only. Always do your own rese
 
 ## Support
 
-For issues or questions, please open an issue on GitHub or contact the maintainers.
+For issues or questions, please open an issue on [GitHub Issues](https://github.com/ShallIfy/bags-token-analysis/issues).
 
 ---
 

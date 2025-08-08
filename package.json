@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "Comprehensive toolkit for analyzing BAGS tokens on Solana blockchain",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShallIfy/bags-token-analysis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShallIfy/bags-token-analysis/issues"
+  },
+  "homepage": "https://github.com/ShallIfy/bags-token-analysis#readme",
   "scripts": {
     "fetch:latest": "node src/fetchers/fetch-latest-tokens.js",
     "fetch:1000": "node src/fetchers/fetch-bags-1000.js",
