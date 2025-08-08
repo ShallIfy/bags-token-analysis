@@ -1,0 +1,26 @@
+{
+  "name": "bags-token-analysis",
+  "version": "1.0.0",
+  "description": "Comprehensive toolkit for analyzing BAGS tokens on Solana blockchain",
+  "main": "index.js",
+  "scripts": {
+    "fetch:latest": "node src/fetchers/fetch-latest-tokens.js",
+    "fetch:1000": "node src/fetchers/fetch-bags-1000.js",
+    "analyze:graduation": "node src/analyzers/analyze-graduation-candidates.js",
+    "analyze:patterns": "node src/analyzers/analyze-graduated-volume-patterns.js",
+    "predict:graduation": "node src/analyzers/predict-graduation.js"
+  },
+  "keywords": [
+    "solana",
+    "bags",
+    "token",
+    "analysis",
+    "graduation",
+    "trading"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
