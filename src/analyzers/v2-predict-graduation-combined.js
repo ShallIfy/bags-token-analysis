@@ -237,12 +237,20 @@ function analyzeTokenV2(priceCandles, volumeCandles, token) {
   
   // Score price (0-100)
   let priceScore = 0;
-  if (token.minutesAgo >= 5 && analysis.price.increase5min >= GRADUATION_THRESHOLDS_V2.price.critical.min5) {
-    priceScore += 30;
-    analysis.price.signals.push(`✅ 5-min price +${analysis.price.increase5min.toFixed(1)}% exceeds threshold`);
-  } else if (token.minutesAgo >= 5 && analysis.price.increase5min > 50) {
-    priceScore += 15;
-    analysis.price.signals.push(`📈 5-min price +${analysis.price.increase5min.toFixed(1)}% positive`);
+  
+  // 5-minute price (can be negative during accumulation)
+  if (token.minutesAgo >= 5) {
+    if (analysis.price.increase5min >= GRADUATION_THRESHOLDS_V2.price.critical.min5) {
+      priceScore += 30;
+      analysis.price.signals.push(`✅ 5-min price +${analysis.price.increase5min.toFixed(1)}% exceeds threshold`);
+    } else if (analysis.price.increase5min > 50) {
+      priceScore += 15;
+      analysis.price.signals.push(`📈 5-min price +${analysis.price.increase5min.toFixed(1)}% positive`);
+    } else if (analysis.price.increase5min < 0 && analysis.volume.at5min > 100000) {
+      // Accumulation phase - negative price but good volume is OK
+      priceScore += 5;
+      analysis.price.signals.push(`📊 Accumulation phase: price ${analysis.price.increase5min.toFixed(1)}% but volume building`);
+    }
   }
   
   if (token.minutesAgo >= 10 && analysis.price.increase10min >= GRADUATION_THRESHOLDS_V2.price.critical.min10) {
