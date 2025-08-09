@@ -1,0 +1,141 @@
+🎓 ANALYZING GRADUATION CANDIDATES
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 Analysis Criteria:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Volume momentum (increasing trend)
+2. Price stability (low volatility)
+3. Consistent buying pressure
+4. Market cap growth rate
+5. Time since creation
+6. Holder count & growth
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📝 Analyzing 87 non-graduated tokens out of 100...
+
+
+[1/87] Analyzing DIAMOND (randomly found in my closet)...
+  Created: just now
+  Current MCap: $5,729.798
+  Holders: 4
+  ✅ Analysis complete - Score: 15.00/100
+
+[2/87] Analyzing BAGWORKERS (The Bagworkers)...
+  Created: just now
+  Current MCap: $6,902.571
+  Holders: 26
+  ✅ Analysis complete - Score: 5.00/100
+
+[3/87] Analyzing RABBIT (RABBIT)...
+  Created: 10 minutes ago
+  Current MCap: $4,732.381
+  Holders: 1
+  ✅ Analysis complete - Score: 10.00/100
+
+[4/87] Analyzing JUNGLE (JUNGLE KEEPERS)...
+  Created: 10 minutes ago
+  Current MCap: $11,045.667
+  Holders: 23
+  ✅ Analysis complete - Score: 10.00/100
+
+[5/87] Analyzing BALLISTIC (BALLISTIC)...
+  Created: 12 minutes ago
+  Current MCap: $6,819.088
+  Holders: 18
+  ✅ Analysis complete - Score: 10.00/100
+
+[6/87] Analyzing BAGSBALL (BAGSBALL)...
+  Created: 18 minutes ago
+  Current MCap: $4,587.255
+  Holders: 14
+  ✅ Analysis complete - Score: 5.00/100
+
+[7/87] Analyzing ANE (Get this hoe a Birkin)...
+  Created: 19 minutes ago
+  Current MCap: $24,194.926
+  Holders: 139
+  ✅ Analysis complete - Score: 20.00/100
+
+[8/87] Analyzing MARAM (Maram's Family Fundraiser)...
+  Created: 19 minutes ago
+  Current MCap: $12,631.131
+  Holders: 32
+  ✅ Analysis complete - Score: 20.00/100
+
+[9/87] Analyzing JOSHBLOCK (Put The Fries In the Bag)...
+  Created: 20 minutes ago
+  Current MCap: $19,768.46
+  Holders: 55
+  ✅ Analysis complete - Score: 13.00/100
+
+[10/87] Analyzing TONY (LC SIGN)...
+  Created: 22 minutes ago
+  Current MCap: $5,787.998
+  Holders: 10
+  ✅ Analysis complete - Score: 35.00/100
+
+[11/87] Analyzing HARPY (Harpy)...
+  Created: 32 minutes ago
+  Current MCap: $19,260.34
+  Holders: 46
+  ✅ Analysis complete - Score: 15.00/100
+
+[12/87] Analyzing RIPPLES (ripples)...
+  Created: 34 minutes ago
+  Current MCap: $4,662.656
+  Holders: 8
+  ✅ Analysis complete - Score: 10.00/100
+
+[13/87] Analyzing STEVE (Scumbag Steve)...
+  Created: 35 minutes ago
+  Current MCap: $9,310.229
+  Holders: 35
+  ✅ Analysis complete - Score: 10.00/100
+
+[14/87] Analyzing BAGSY (BAGSY)...
+  Created: 37 minutes ago
+  Current MCap: $7,338.331
+  Holders: 31
+  ✅ Analysis complete - Score: 20.00/100
+
+[15/87] Analyzing BAJ (BAGSJOURNEY)...
+  Created: 41 minutes ago
+  Current MCap: $13,138.567
+  Holders: 42
+  ✅ Analysis complete - Score: 25.00/100
+
+[16/87] Analyzing BAGGZY (BAGGZY)...
+  Created: 45 minutes ago
+  Current MCap: $4,484.514
+  Holders: 1
+  ✅ Analysis complete - Score: 20.00/100
+
+[17/87] Analyzing 4CHAN (4CHAN)...
+  Created: 49 minutes ago
+  Current MCap: $6,042.589
+  Holders: 11
+  ✅ Analysis complete - Score: 45.00/100
+
+[18/87] Analyzing 8BALL (get him a bag)...
+  Created: 50 minutes ago
+  Current MCap: $6,777.362
+  Holders: 20
+  ✅ Analysis complete - Score: 10.00/100
+
+[19/87] Analyzing ROSS (Ross Ulbricht)...
+  Created: 51 minutes ago
+  Current MCap: $5,422.689
+  Holders: 16
+  ✅ Analysis complete - Score: 15.00/100
+
+[20/87] Analyzing VIBE (VIBECOIN)...
+  Created: 52 minutes ago
+  Current MCap: $5,190.865
+  Holders: 6
+  ✅ Analysis complete - Score: 25.00/100
+
+[21/87] Analyzing SLERF (SLERF)...
+  Created: 56 minutes ago
+  Current MCap: $4,475.326
+  Holders: 1
+  ✅ Analysis complete - Score: 20.00/100

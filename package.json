@@ -14,8 +14,11 @@
   "scripts": {
     "fetch:latest": "node src/fetchers/fetch-latest-tokens.js",
     "fetch:1000": "node src/fetchers/fetch-bags-1000.js",
-    "analyze:graduation": "node src/analyzers/analyze-graduation-candidates.js",
+    "analyze:graduation": "node src/analyzers/analyze-graduation-auto.js",
+    "analyze:graduation:v1": "node src/analyzers/analyze-graduation-candidates.js",
+    "analyze:graduation:v2": "node src/analyzers/v2-predict-graduation-combined.js",
     "analyze:patterns": "node src/analyzers/analyze-graduated-volume-patterns.js",
+    "analyze:patterns:v2": "node src/analyzers/v2-analyze-price-patterns.js",
     "predict:graduation": "node src/analyzers/predict-graduation.js"
   },
   "keywords": [
